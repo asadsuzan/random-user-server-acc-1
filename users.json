@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "gender": "male",
+    "name": "user1",
+    "contact": "123",
+    "address": "bangladesh",
+    "photoUrl": "http//photo.jpg"
+  },
+  {
+    "Id": 2,
+    "gender": "female",
+    "name": "user2",
+    "contact": "456",
+    "address": "india",
+    "photoUrl": "http//photo.jpg"
+  },
+  {
+    "Id": 3,
+    "gender": "male",
+    "name": "user3",
+    "contact": "789",
+    "address": "nepal",
+    "photoUrl": "http//photo.jpg"
+  },
+  {
+    "Id": 4,
+    "gender": "female",
+    "name": "user4",
+    "contact": "1011",
+    "address": "vhutan",
+    "photoUrl": "http//photo.jpg"
+  },
+  {
+    "Id": 5,
+    "gender": "male",
+    "name": "user5",
+    "contact": "1213",
+    "address": "srilankka",
+    "photoUrl": "http//photo.jpg"
+  },
+  {
+    "Id": 6,
+    "gender": "female",
+    "name": "user6",
+    "contact": "1415",
+    "address": "pakistan",
+    "photoUrl": "http//photo.jpg"
+  },
+  {
+    "Id": 7,
+    "gender": "male",
+    "name": "user7",
+    "contact": "1617",
+    "address": "maldip",
+    "photoUrl": "http//photo.jpg"
+  },
+  {
+    "Id": 8,
+    "gender": "female",
+    "name": "user8",
+    "contact": "1819",
+    "address": "mayanmer",
+    "photoUrl": "http//photo.jpg"
+  },
+  {
+    "Id": 9,
+    "gender": "male",
+    "name": "user9",
+    "contact": "2021",
+    "address": "afganisthan",
+    "photoUrl": "http//photo.jpg"
+  },
+  {
+    "Id": 10,
+    "gender": "female",
+    "name": "user10",
+    "contact": "2223",
+    "address": "dubai",
+    "photoUrl": "http//photo.jpg"
+  }
+]

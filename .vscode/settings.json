@@ -1,0 +1,28 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.fontSize": 15,
+  "editor.fontFamily": "fira code,Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 2.5,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggest.showWords": true,
+  "editor.wordBasedSuggestionsMode": "currentDocument",
+  "editor.wordBasedSuggestions": true,
+  "editor.letterSpacing": 0,
+  "editor.fontWeight": "400",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
